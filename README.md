@@ -7,11 +7,11 @@
 ##
 
 <div>
-  <img align="center" alt="Caio-PY" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" alt="Caio-JS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Caio-SQL" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
-  <img align="center" alt="Caio-HTML" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Caio-CSS" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Caio-PY" height="40" width="40" src="https://skillicons.dev/icons?i=py&theme=light"/>
+  <img align="center" alt="Caio-JS" height="40" width="40" src="https://skillicons.dev/icons?i=js&theme=light">
+  <img align="center" alt="Caio-SQL" height="40" width="40" src="https://skillicons.dev/icons?i=sqlite&theme=light"/>
+  <img align="center" alt="Caio-HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html&theme=light"/>
+  <img align="center" alt="Caio-CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css&theme=light"/>
 </div>
 
 ##
