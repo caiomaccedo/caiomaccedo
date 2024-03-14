@@ -57,7 +57,7 @@
 <h3 align="center">🎖️ Status 🎖️</h3>
 <br/> 
 <div align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomaccedo&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomaccedo&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomaccedo&show_icons=true&theme=react&include_all_comits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomaccedo&layout=compact&langs_count=16&theme=react"/>
 </div>
 
