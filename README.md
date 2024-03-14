@@ -20,6 +20,7 @@
 </div>
 
 <div align="center">
+  
   <a href = "https://www.linkedin.com/in/caiomaccedo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="maito:contatocaiomaccedo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
@@ -47,15 +48,14 @@
   <h3>📚 Minhas Contrubuições 📚</h3>
   <br/>
 
-  ![snake animation](https://github.com/<caiomaccedo>/<caiomaccedo>/blob/output/github-contribution-grid-snake2.svg)
+![](https://raw.githubusercontent.com/caiomaccedo/caiomaccedo/output/github-contribution-grid-snake.svg)
 
-  <br/><br/><br/>
 </div>
 
 <hr/>
 
 <h3 align="center">🎖️ Status 🎖️</h3>
-  
+<br/> 
 <div align="center">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=caiomaccedo&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomaccedo&layout=compact&langs_count=16&theme=dracula"/>
