@@ -1,0 +1,41 @@
+name: Update readme
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+
+
+jobs:
+  readme:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: ${{ github.head_ref }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v3
+        
+      - run: npm install
+
+      - name: Generate readme
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+          UNSPLASH_API_KEY: ${{ secrets.UNSPLASH_API_KEY }}
+        run: node build-svg.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          push_options: --force
+          commit_user_name: Caio Macedo
+          commit_author: Author <caiomaccedo>
+          commit_message: "Auto updating my readme"
+          file_pattern: "*.svg README.md"
