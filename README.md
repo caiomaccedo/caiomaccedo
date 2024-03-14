@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h3>📚 Minhas Contrubuições 📚</h3>
+  <h3>📚 Minhas Contribuições 📚</h3>
   <br/>
 
 ![](https://raw.githubusercontent.com/caiomaccedo/caiomaccedo/output/github-contribution-grid-snake.svg)
