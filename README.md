@@ -13,7 +13,7 @@
 
 👨‍💻 Atualmente estudando: **Matemática e lógica, Banco de dados, Engenharia de software, Computação em nuvem e Estrutura de dados.**
 
-🧠 Dicas de estudos e conhecimento sempre será bem-vindo: **Me ajude** [Aqui](https://github.com/caiomaccedo/caiomaccedo/issues)
+🧠 Dicas de estudos e conhecimentos sempre será bem-vindo: **Me ajude** [Aqui](https://github.com/caiomaccedo/caiomaccedo/issues)
 
 🧐 Uma curiosidade sobre mim: **Me indetifico mais com o Front End...**
   
