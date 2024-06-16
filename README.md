@@ -33,7 +33,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py&theme=light"/>
   <img src="https://skillicons.dev/icons?i=js&theme=light">
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=mysql &theme=light"/>
   <img src="https://skillicons.dev/icons?i=html&theme=light"/>
   <img src="https://skillicons.dev/icons?i=css&theme=light"/>
   <img src="https://skillicons.dev/icons?i=vscode&theme=light"/>
