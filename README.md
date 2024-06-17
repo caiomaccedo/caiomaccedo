@@ -15,7 +15,7 @@
 
 🧠 Dicas de estudos e conhecimentos sempre será bem-vindo: **Me ajude** [Aqui](https://github.com/caiomaccedo/caiomaccedo/issues)
 
-🧐 Uma curiosidade sobre mim: **Me indetifico mais com o Front End...**
+🧐 Uma curiosidade sobre mim: **Já trabalhei como designer gráfico freelancer, o que me faz identificar mais com o Front End.**
   
 </div>
 
