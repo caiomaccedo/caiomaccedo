@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Caio!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">Estudante de Ciências da Computação from Brazil 🇧🇷</h3>
+<h3 align="center">Estudante de Ciências da Computação 🇧🇷</h3>
 
 <br/>
 
